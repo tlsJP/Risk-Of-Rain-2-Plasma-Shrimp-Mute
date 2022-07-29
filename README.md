@@ -14,8 +14,12 @@ Completely removes all sound effects of the Plasma Shrimp. Please read all discl
 # Instructions
 
 1. Go to `[steam_games_folder]\Risk of Rain 2\Risk of Rain 2_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows`
-1. Rename `void_critGlasses.bnk` to `void_critGlasses.bnk.orig`
-2. From this project, save `void_critGlasses.bnk.mut` to the above folder
-3. Rename `void_critGlasses.bnk.mut` to `void_critGlasses.bnk`
+2. Rename `void_critGlasses.bnk` to `void_critGlasses.bnk.orig`
+3. From this project, save `void_critGlasses.bnk.mut` to the above folder
+4. Rename `void_critGlasses.bnk.mut` to `void_critGlasses.bnk`
+5. Enjoy I guess? I personally like the sound...
 
 
+# Attenuated
+
+If you'd rather the sound effects were attenuated, use the file `void_crit_glasses.bnk.att` instead
