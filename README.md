@@ -23,3 +23,11 @@ Completely removes all sound effects of the Plasma Shrimp. Please read all discl
 # Attenuated
 
 If you'd rather the sound effects were attenuated, use the file `void_crit_glasses.bnk.att` instead
+
+# I changed my mind!
+
+ Assuming you followed the instructions properly, just reverse what you've done and it'll be back to normal.
+ 
+ 1. Delete `void_critGlasses.bnk`
+ 2. Rename `void_critGlasses.bnk.orig` to `void_critGlasses.bnk`
+ 3. Enjoy?
